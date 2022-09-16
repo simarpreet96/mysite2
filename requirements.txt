@@ -63,7 +63,7 @@ launchpadlib==1.10.6
 lazr.restfulclient==0.13.5
 lazr.uri==1.0.3
 lxml==4.4.1
-Mako==1.1.0
+Mako==1.2.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 more-itertools==8.0.2
